@@ -1,0 +1,124 @@
+# DataPlane.org - for operators, by operators
+# sipregistration
+# 2021-03-14 06:00 - 2021-03-21 06:00
+#
+# The sipregistration report is free for non-commercial use ONLY.  If you wish
+# to discuss commercial use of this service, please contact us at
+# info@dataplane.org.  Redistribution of the sipregistration report in whole or
+# in part without the express permission of DataPlane is expressly
+# prohibited.
+#
+# This report is made possible through the generous support of people
+# like you.  Sensor, processing, and distribution systems require
+# non-free resources to setup and maintain.  We are always looking for
+# financial contributions to help pay the bills and hosting to increase
+# visibility.  If you find what we do useful, please consider supporting
+# us.
+#
+# This report is informational.  It is not a block list, but some may
+# choose to use it to actively protect their networks and systems.  The
+# report is provided on an as-is basis with no expressed warranty or
+# guarantee of accuracy.  Use of this data is at your own risk.  If you
+# have questions about this report do not hesitate to contact us.
+#
+# Entries below are records of source IP addresses that have been
+# identified as sending SIP INVITE operations.
+# Each entry is sorted according to a route originating ASN.  An entry
+# for the IP address is listed only once even if there are multiple
+# origin AS (MOAS) announcements for the covering prefix.  We use the
+# PyASN IP address to ASN mapping service to construct an origin AS
+# number and name.  For details about PyASN, see:
+#
+#   <https://pypi.org/project/pyasn/>.
+#
+# The report format is as follows:
+#
+# ASN  |  ASname  |  ipaddr  |  lastseen  |  category
+#
+# Each field is described below.  Please note any special formatting
+# rules to aid in processing this file with automated tools and scripts.
+# Blank lines may be present to improve the visual display of this file.
+# Lines beginning with a hash ('#') character are comment lines.  All
+# other lines are report entries.  Each field is separated by a pipe
+# symbol ('|') and at least two whitespace characters on either side.
+#
+#   ASN        Autonomous system number originating a route for the
+#              entry IP address. Note, 4-byte ASNs are supported and
+#              will be displayed as a 32-bit integer.  NA is shown if
+#              an origin ASN cannot be found.
+#
+#   ASname     A descriptive network name for the associated ASN.  The
+#              name is truncated to 30 characters.  NA is shown if an
+#              AS name cannot be found.
+#
+#   ipaddr     The IPv4 address that is being reported.
+#
+#   lastseen   A last seen timestamp formatted as YYYY-mm-dd HH:MM:SS
+#              in UTC time.
+#
+#   category   Descriptive tag name for this entry.  For this report,
+#              the text sipregistration will appear.
+#
+# A commented footer section shows an aggregate count of ASNs and
+# addresses seen in the current report.
+#
+174          |  COGENT-174                      |  45.56.174.188    |  2021-03-20 06:53:03  |  sipregistration
+8075         |  MICROSOFT-CORP-MSN-AS-BLOCK     |  104.210.155.68   |  2021-03-17 15:36:09  |  sipregistration
+8075         |  MICROSOFT-CORP-MSN-AS-BLOCK     |  13.77.149.138    |  2021-03-15 20:52:05  |  sipregistration
+8075         |  MICROSOFT-CORP-MSN-AS-BLOCK     |  40.66.46.34      |  2021-03-17 01:01:57  |  sipregistration
+8075         |  MICROSOFT-CORP-MSN-AS-BLOCK     |  40.86.209.136    |  2021-03-16 16:14:49  |  sipregistration
+8075         |  MICROSOFT-CORP-MSN-AS-BLOCK     |  52.184.225.182   |  2021-03-18 14:42:00  |  sipregistration
+8075         |  MICROSOFT-CORP-MSN-AS-BLOCK     |  52.235.45.105    |  2021-03-16 17:03:02  |  sipregistration
+8551         |  BEZEQ-INTERNATIONAL-AS Bezeq I  |  84.110.53.152    |  2021-03-14 14:51:44  |  sipregistration
+11042        |  NTHL                            |  173.213.87.105   |  2021-03-19 18:14:32  |  sipregistration
+12876        |  AS12876 ONLINE S.A.S.           |  195.154.53.237   |  2021-03-21 05:46:43  |  sipregistration
+12876        |  AS12876 ONLINE S.A.S.           |  212.83.140.147   |  2021-03-19 11:12:30  |  sipregistration
+12876        |  AS12876 ONLINE S.A.S.           |  212.83.140.205   |  2021-03-19 13:10:03  |  sipregistration
+12876        |  AS12876 ONLINE S.A.S.           |  212.83.141.89    |  2021-03-21 00:17:46  |  sipregistration
+12876        |  AS12876 ONLINE S.A.S.           |  51.15.157.120    |  2021-03-21 05:59:30  |  sipregistration
+12876        |  AS12876 ONLINE S.A.S.           |  51.159.93.160    |  2021-03-18 18:15:53  |  sipregistration
+12876        |  AS12876 ONLINE S.A.S.           |  51.159.94.110    |  2021-03-17 17:24:13  |  sipregistration
+12975        |  PALTEL-AS Palestine Telecommun  |  89.239.33.160    |  2021-03-20 14:40:31  |  sipregistration
+12975        |  PALTEL-AS Palestine Telecommun  |  89.239.37.200    |  2021-03-17 03:07:45  |  sipregistration
+16276        |  OVH OVH SAS                     |  135.125.116.90   |  2021-03-18 23:12:05  |  sipregistration
+16276        |  OVH OVH SAS                     |  144.217.204.61   |  2021-03-20 23:11:33  |  sipregistration
+16276        |  OVH OVH SAS                     |  145.239.51.233   |  2021-03-16 20:51:46  |  sipregistration
+16276        |  OVH OVH SAS                     |  146.59.181.209   |  2021-03-15 06:06:00  |  sipregistration
+16276        |  OVH OVH SAS                     |  217.182.198.219  |  2021-03-18 12:07:16  |  sipregistration
+16276        |  OVH OVH SAS                     |  51.195.6.216     |  2021-03-15 16:52:07  |  sipregistration
+16276        |  OVH OVH SAS                     |  51.91.130.125    |  2021-03-21 02:54:39  |  sipregistration
+16276        |  OVH OVH SAS                     |  87.98.246.193    |  2021-03-15 22:53:41  |  sipregistration
+20773        |  GODADDY Host Europe GmbH        |  185.19.216.246   |  2021-03-21 04:32:41  |  sipregistration
+23470        |  RELIABLESITE                    |  91.132.58.3      |  2021-03-21 05:01:10  |  sipregistration
+24961        |  MYLOC-AS myLoc managed IT AG    |  85.114.138.106   |  2021-03-21 04:24:20  |  sipregistration
+24961        |  MYLOC-AS myLoc managed IT AG    |  89.163.245.244   |  2021-03-21 02:44:33  |  sipregistration
+33387        |  NOCIX                           |  45.134.144.6     |  2021-03-21 05:59:26  |  sipregistration
+33438        |  HIGHWINDS2                      |  216.151.180.51   |  2021-03-17 07:34:34  |  sipregistration
+46664        |  VDI-NETWORK                     |  23.148.145.233   |  2021-03-21 04:59:30  |  sipregistration
+47890        |  UNMANAGED-DEDICATED-SERVERS UN  |  193.46.255.22    |  2021-03-14 14:58:09  |  sipregistration
+47890        |  UNMANAGED-DEDICATED-SERVERS UN  |  193.46.255.58    |  2021-03-18 04:05:09  |  sipregistration
+47890        |  UNMANAGED-DEDICATED-SERVERS UN  |  193.46.255.66    |  2021-03-21 05:40:46  |  sipregistration
+49870        |  AS49870-BV Alsycon B.V.         |  89.190.156.252   |  2021-03-20 06:44:44  |  sipregistration
+49870        |  AS49870-BV Alsycon B.V.         |  89.190.156.31    |  2021-03-17 04:29:05  |  sipregistration
+51167        |  CONTABO Contabo GmbH            |  144.91.113.15    |  2021-03-15 12:43:56  |  sipregistration
+51167        |  CONTABO Contabo GmbH            |  161.97.184.24    |  2021-03-19 03:08:53  |  sipregistration
+51167        |  CONTABO Contabo GmbH            |  173.212.213.248  |  2021-03-20 15:26:13  |  sipregistration
+56694        |  DHUB LLC Smart Ape              |  188.127.237.58   |  2021-03-19 18:43:59  |  sipregistration
+57704        |  SPEED-CLICK-LTD SpeedClick for  |  45.130.96.72     |  2021-03-19 03:06:52  |  sipregistration
+133398       |  TELE-AS Tele Asia Limited       |  103.253.42.41    |  2021-03-19 21:11:02  |  sipregistration
+201814       |  PL-SKYTECH-AS Meverywhere sp.   |  185.16.38.115    |  2021-03-20 19:51:50  |  sipregistration
+201814       |  PL-SKYTECH-AS Meverywhere sp.   |  193.107.216.21   |  2021-03-18 23:06:21  |  sipregistration
+201814       |  PL-SKYTECH-AS Meverywhere sp.   |  193.107.216.22   |  2021-03-19 05:28:30  |  sipregistration
+201814       |  PL-SKYTECH-AS Meverywhere sp.   |  193.107.216.23   |  2021-03-18 23:37:14  |  sipregistration
+201814       |  PL-SKYTECH-AS Meverywhere sp.   |  193.107.216.24   |  2021-03-18 16:11:54  |  sipregistration
+201814       |  PL-SKYTECH-AS Meverywhere sp.   |  193.107.216.25   |  2021-03-19 04:29:27  |  sipregistration
+201814       |  PL-SKYTECH-AS Meverywhere sp.   |  193.107.216.26   |  2021-03-18 23:01:34  |  sipregistration
+201814       |  PL-SKYTECH-AS Meverywhere sp.   |  193.107.216.27   |  2021-03-19 00:18:44  |  sipregistration
+201814       |  PL-SKYTECH-AS Meverywhere sp.   |  193.107.216.28   |  2021-03-19 00:26:36  |  sipregistration
+201814       |  PL-SKYTECH-AS Meverywhere sp.   |  193.107.216.29   |  2021-03-18 23:54:20  |  sipregistration
+201814       |  PL-SKYTECH-AS Meverywhere sp.   |  193.107.216.30   |  2021-03-18 23:05:42  |  sipregistration
+398108       |  GO-DADDY-COM-LLC                |  92.204.135.209   |  2021-03-19 01:29:06  |  sipregistration
+#
+# Statistics
+#        ASNs: 21
+#   Addresses: 56

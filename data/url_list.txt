@@ -1,0 +1,67 @@
+
+#####################################################
+#               MalSilo URL feed                    #
+#####################################################
+#                                                   #
+# Dataset generated @ 2021-03-20 22:00:03 (UTC)     #
+#                                                   #
+# Use the data at your own risk, for any            #
+# re-publishing or integration into other           #
+# datasets please contact malsilo [at] tuta .io     #
+#                                                   #
+#####################################################
+#
+# Firstseen,Lastseen,url,threat,tags 
+"2021-03-02","2021-03-02","http://164.132.233.203/data/getip.php","riskware","peexe32,pegui"
+"2021-03-04","2021-03-04","http://docs.healthmade.org:80//remote.dotm","unknown","docx"
+"2021-03-04","2021-03-04","ftp://ftp.curidesigner.com/pw_user-worker-02_2021_03_05_01_27_50.html","agenttesla","pegui,peexe32,assembly"
+"2021-03-05","2021-03-05","http://xk.996is.com:66/kj.dll","tinba","peexe32,pegui"
+"2021-03-05","2021-03-05","http://paste.ee:443//r/c0nh4","downloader","peexe32,pegui"
+"2021-03-06","2021-03-06","http://api.faceit.com:443//core/v1/nicknames/slowyen","downloader","peexe32,pegui"
+"2021-03-07","2021-03-07","https://api.2ip.ua/geo.json","glupteba","peexe32,pegui"
+"2021-03-08","2021-03-08","http://217.8.117.207/gb2pnjsjcs/plugins/scr.dll","downloader","peexe32,pegui"
+"2021-03-08","2021-03-08","http://217.8.117.207/gb2pnjsjcs/plugins/cred.dll","downloader","peexe32,pegui"
+"2021-03-08","2021-03-08","http://217.8.117.207:80//gb2pnjsjcs/index.php","downloader","peexe32,pegui"
+"2021-03-08","2021-03-09","http://194.147.115.117:80//zzztop/phoenixminer.exe","coinminer","peexe32,pegui"
+"2021-03-08","2021-03-09","http://194.147.115.117:80//zzztop/this.exe","coinminer","peexe32,pegui"
+"2021-03-09","2021-03-09","http://liverpoolofcfanclub.com/liverpool-fc-news/features/steven-gerrard-liverpool-future-dalglish--goal-5664fa03d660fb23e38f7f4966c04867.html","downloader","pegui,peexe32,assembly"
+"2021-03-10","2021-03-10","http://r.pengyou.com/fcg-bin/cgi_get_portrait.fcg","coinminer","mz"
+"2021-03-10","2021-03-10","http://liverpoolofcfanclub.com/liverpool-fc-news/features/steven-gerrard-liverpool-future-dalglish--goal-8dab36b523d35be6a6d2d638d1d56c6e.html","downloader","pegui,peexe32,assembly"
+"2021-03-10","2021-03-10","https://ylo.uhuua.ru/thisassemblyn","downloader","peexe32,pegui"
+"2021-03-10","2021-03-10","https://ylo.uhuua.ru/systemdiagnosticsdatareceivedeventargsi","downloader","peexe32,pegui"
+"2021-03-10","2021-03-10","https://ydq.uhuua.ru/systemnettransmitfilebuffersz","downloader","peexe32,pegui"
+"2021-03-10","2021-03-10","http://liverpoolofcfanclub.com/liverpool-fc-news/features/steven-gerrard-liverpool-future-dalglish--goal-b641ba2412a76ee3d7598775ed3e92ec.html","downloader","pegui,peexe32,assembly"
+"2021-03-10","2021-03-10","http://coroloboxorozor.com/base/1aa987cf2516121e84ae27b94a09d950.html","downloader","pegui,peexe32,assembly"
+"2021-03-11","2021-03-11","http://validation.wootraining.certificacion.cl:80//bvcu/index.php","azorult","peexe32,pegui"
+"2021-03-12","2021-03-18","http://api.faceit.com:443//core/v1/nicknames/sergeevih","coinminer","peexe32,pegui"
+"2021-03-13","2021-03-13","https://discordtools.de/config.txt","razy","pegui,peexe32,assembly"
+"2021-03-13","2021-03-13","https://cryptobsolutions.xyz/index.php","downloader","pegui,peexe32,assembly"
+"2021-03-17","2021-03-17","http://dsulum.anonymous-sec.com/moab/","njrat","pegui,peexe32,assembly"
+"2021-03-17","2021-03-17","http://liverpooldabestteamoftheworld.com/liverpool-fc-news/features/steven-gerrard-liverpool-future-dalglish--goal-2b7e9fec5ca00e467793656478e68f75.html","downloader","pegui,peexe32,assembly"
+"2021-03-17","2021-03-17","http://paste.ee:443//r/jjrva","andromeda","peexe32,pegui"
+"2021-03-17","2021-03-17","http://coroloboxorozor.com/base/463fda2ad840c7408214057b9b5ce831.html","riskware","pegui,peexe32,assembly"
+"2021-03-17","2021-03-17","http://cs51919.tmweb.ru/jah3b5q3hkt4v8iuj47724umkygr1gsctnp3p1ukmio9ixwfcnflh76esg5fv4qnxlsm/sg2dmj1k5lzzxrtchs6omubpixuk3a1dqmb8rn/1b58f49e15eeb98754ad22cdd55072e27b160ca2.php","riskware","peexe32,pegui"
+"2021-03-17","2021-03-17","http://liverpooldabestteamoftheworld.com/liverpool-fc-news/features/steven-gerrard-liverpool-future-dalglish--goal-896040f2af009d79eef149564853ab30.html","agenttesla","pegui,peexe32,assembly"
+"2021-03-17","2021-03-17","http://liverpooldabestteamoftheworld.com/liverpool-fc-news/features/steven-gerrard-liverpool-future-dalglish--goal-09036204a3fcb58155476901f9ddc45c.html","agenttesla","pegui,peexe32,assembly"
+"2021-03-17","2021-03-17","http://a0510942.xsph.ru/gate.php","agenttesla","pegui,peexe32,assembly"
+"2021-03-17","2021-03-17","http://uehge4g6gh.2ihsfa.com/api/","riskware","peexe32,pegui"
+"2021-03-17","2021-03-17","http://uehge4g6gh.2ihsfa.com/api/fbtime","riskware","peexe32,pegui"
+"2021-03-17","2021-03-17","http://liverpooldabestteamoftheworld.com/liverpool-fc-news/features/steven-gerrard-liverpool-future-dalglish--goal-82fa011a109f01e250635ce5932ebdcf.html","downloader","pegui,peexe32,assembly"
+"2021-03-18","2021-03-18","http://paste.ee:443//r/lrgkg","downloader","peexe32,pegui"
+"2021-03-18","2021-03-18","http://jejendjcjfhh.com/liverpool-fc-news/features/steven-gerrard-liverpool-future-dalglish--goal-3df638d47ea8feced716c8025134cfa6.html","downloader","pegui,peexe32,assembly"
+"2021-03-18","2021-03-18","http://liverpooldabestteamoftheworld.com/liverpool-fc-news/features/steven-gerrard-liverpool-future-dalglish--goal-7a2ab40279d7479606c06352f7c02022.html","downloader","pegui,peexe32,assembly"
+"2021-03-18","2021-03-18","http://liverpooldabestteamoftheworld.com/liverpool-fc-news/features/steven-gerrard-liverpool-future-dalglish--goal-5cd44309edba3436fed51b07125f8dc8.html","downloader","pegui,peexe32,assembly"
+"2021-03-18","2021-03-18","http://liverpooldabestteamoftheworld.com/liverpool-fc-news/features/steven-gerrard-liverpool-future-dalglish--goal-da9dcc302025fecd7adf13c604c4f60d.html","downloader","pegui,peexe32,assembly"
+"2021-03-18","2021-03-18","http://yual.top/lancer/getm.php","downloader","peexe32,pegui"
+"2021-03-18","2021-03-18","http://yual.top/files/iner/5.exe","downloader","peexe32,pegui"
+"2021-03-18","2021-03-18","http://yual.top/files/iner/3.exe","downloader","peexe32,pegui"
+"2021-03-18","2021-03-18","http://yual.top/files/iner/updatewin.exe","downloader","peexe32,pegui"
+"2021-03-18","2021-03-18","http://yual.top/files/iner/updatewin2.exe","downloader","peexe32,pegui"
+"2021-03-18","2021-03-18","http://yual.top/files/iner/updatewin1.exe","downloader","peexe32,pegui"
+"2021-03-18","2021-03-18","http://yual.top/files/iner/4.exe","downloader","peexe32,pegui"
+"2021-03-19","2021-03-19","http://deodd52.top:80//index.php","unknown","peexe32,pegui"
+"2021-03-19","2021-03-19","http://api10.laptok.at:80//api1/2acbglozffmsx5_/2f6qmks_2b1oyywoyo/qz9h6ldrh/t2e5ir2x2pm1sl0gy_2b/xrwr4mfro_2bad2z1_2/f8eh5xilh3h2ou8kiirbph/pn3suzhopwboc/mpjvwmsd/5vc3syqob_2fe1yyetvhzgg/r_2ffmtefh/vzecvs8yhgef0ifpq/fgxy8zna_2bt/xk5eoxldvzi/rswx6p4cjua5yd/w6tnaiq2zmkzxt5gjxkmi/3ltb_2bb5n75ipae/ghybye8febwvwlz/tehpf7sgbxhf1do_2b/mxh5nqqdi/abx_2b3c_2f_2bzglptc/_2ffuaewujxo_2fvocy/iatvqmriz_2by9vy1q/xjkob","ursnif",""
+"2021-03-19","2021-03-19","http://golang.feel500.at:80//api1/vky9t1ofwcettikwm4sa5/xunpkfc0w95d4qnb/bxem1iunjcgedsw/krga2sexr5fyrkj4ul/h_2fcj5uh/auerlcdmyf0gjrfqt_2f/sfz2lw_2flfuqvrpmnr/d01ozoxfuqfoghby35urpn/bmhr1dzvomq3x/_2bkjg3c/arxs60dqj1lefp7o27yequs/td1fzalztj/bdnn74eez_2b7703z/fcrvbfvcdsys/hdj3zop4orf/iq6eszcbl_2b2t/76bwvfj8gcgtre4oafshg/rqexscnawr8i4fyv/iwf3zvd8bwgpgpp/dglrlhpad9d1lunr95/1d_2fvjfu/a6fz4ds","ursnif",""
+"2021-03-19","2021-03-19","http://go.in100k.at:80//api1/xcpsmcowkiswt809i2b6n5w/fmshz3v28q/aeo_2btgynurmv9h9/cn0_2fqvwc94/lqqdj_2fe8s/zcbxntx3cism_2/fl8rm0_2bprhuzlp9ks_2/fuy0yij4bt08bko9/g1nmezz0jiw67k8/unc1ldmns5spypm_2f/1mbyxrori/_2fd9us_2bqepfrh6c78/8lwg7i7apa_2fmrhkpj/aoxzxfmgkocvtghjexmp4j/ajqesu0rbqgud/cmlp8qft/5fwa9fystzsvewukefghpez/q4gzbuxsnh/3jp2w9dltiivjgik_/2fdpobkqmryw/58izlzyfiw/q","ursnif",""
+"2021-03-19","2021-03-19","http://api10.laptok.at:80//api1/cbkagskjojlraz0_2b73/9jz9udkitgkxrnbq_2b/1n_2bbwrkhbu1zozvi2y_2/bfwtcysfnkh1e/u0cu8e4u/xxbtkpqfnsgneyhcvezqwa_/2bfykxykr5/39zthuqgwwosf1imd/dlwmd0djzjcc/afzep6weuky/uaug6hputvace9/2ils9oeljq4gohhmwvugd/0oetxlrv3ng0qa2t/7gxjzf2adczb0q0/ehtj44zkomurqjwt28/wxszfyjen/ehkdsqe3xn73hrcvpsq7/xggoisw3lwvl1ctsn3f/i85yr2dfcixodd7vw5kzc_/2fcau6w1y0ev/lujru8qm/ldv","dridex",""
+"2021-03-19","2021-03-19","http://go.in100k.at:80//api1/_2fc8gqlk/kxumsbdn1bk5m958n01z/4exfenq7s9brchrdqoa/gxacinuyjxdpbjnuauhxup/4tm71h3uxcwhc/fjat3ndg/m1ig_2ff7_2bzgcp_2fql2u/qcr_2bzbf0/yrpfluowhpmxmvwdp/wvmlrf4eihkh/5rlwffvor8g/h9wyuooyqgbxxf/vf9vm4_2fj_2bb3zrbdnr/kccbhdhfkb53rpje/5k7agsj7wqwc5uv/dkio59urjtkp87iisn/fnbfpfovw/mxemwg3gvy3mxp7o4c90/cv1eb3ebb0s7zagkl5x/npx5igv_2beyq/6p3hwh","dridex",""
